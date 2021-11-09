@@ -6,4 +6,4 @@ This is a project done for Current Trends in Software Engineering (CTSE) module.
 
 <br/>
 
-<img src="/Screenshots/swipe_to_delete.jpg" alt="drawing" width="300" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Screenshots/pie_chart_view.jpg" alt="drawing" width="300" height="700"/>
+<img src="/Screenshots/swipe_to_delete.jpg" alt="drawing" width="310" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Screenshots/pie_chart_view.jpg" alt="drawing" width="310" height="700"/>
